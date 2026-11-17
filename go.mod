@@ -16,7 +16,7 @@ require (
 	github.com/stretchr/testify v1.12.1
 	github.com/vrischmann/envconfig v1.4.1
 	go.szostok.io/version v1.2.0
-	golang.org/x/oauth2 v0.37.0
+	golang.org/x/oauth2 v0.38.0
 	gotest.tools v2.2.0+incompatible
 )
 
